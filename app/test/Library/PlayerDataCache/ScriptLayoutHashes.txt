@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Gekko/Desktop/SuperGame.apk
+D:/Andres/Universidad/distri/Marathons/magmaQr/app/test/androidApk/LearningCities.apk
 SceneListBegin?
 Assets/Scenes/main.unity
 Assets/Scenes/aReality.unity
