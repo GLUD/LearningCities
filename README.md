@@ -2,10 +2,10 @@
 
 INFORMACIÓN DE CONTACTO DESARROLLADORES
 
-Desarrollador: Andres Fernando Angarita Espitia
-Estudiante de Estadistica Universidad Nacional
-correo: andres.angarita96@gmail.com
-Movil: 3195497564
+Desarrollador: Andres Fernando Angarita Espitia \n
+Estudiante de Estadistica Universidad Nacional \n
+correo: andres.angarita96@gmail.com \n
+Movil: 3195497564 \n
 
 
 Desarrollador: Maria Angélica Cruz Guerrero
